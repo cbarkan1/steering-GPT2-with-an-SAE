@@ -2,8 +2,7 @@
 
 This repository contains the code and report for a mechanistic interpretability project involving the use of sparse autoencoders (SAEs) to steer the behavior of LLMs.
 
-**Abstract**
-
+**Abstract:**
 There is a famous saying in statistical physics: "More is different." This means that systems of interacting particles often exhibit emergent behaviors that are nearly impossible to predict by studying a single particle. Perhaps a similar rule applies to systems of interacting AI agents. This project works towards the goal of steering the behavior of systems of interacting AI agents using sparse autoencoders (SAEs). The future will likely involve a multitude of AI agents interacting across the internet and economy, so steering these systems' behaviors will be crucial for safety.
 
 
